@@ -1,11 +1,11 @@
 /**
- * @file meritechIPegt.cpp
+ * @file egtNetwork.cpp
  * @author Owen O'Hehir
  * @brief EGT based GUI to display network stats
  * @version 0.1
  * @date 2022-10-29
  * 
- * @copyright Copyright (c) 2022
+ * SPDX-License-Identifier: Apache-2.0
  * 
  */
 
