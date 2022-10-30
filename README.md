@@ -6,3 +6,4 @@ Note: EGT is primarily targeted at Microchip SAM devices
 
 ## To Build
 To build both x86 & ARM binaries run the included build.sh script
+
